@@ -11,7 +11,7 @@ print(setofONTs[2])
 
 print(len(setofONTs))
 print(type(setofONTs))
-
+#trying list comprehension by using set {} to get unuique list of ONTs
 setofONTs1 = sorted({n.replace('/','-') for n in listofONTs if n!='1/1/1/1/1' if n!='1/1/1/2/1'})
 print(setofONTs1)
 
