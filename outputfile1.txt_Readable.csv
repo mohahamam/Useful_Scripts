@@ -1,0 +1,55 @@
+PortNumber,AN on Port,Peer AN,AN Matching?,Admin Status,Operational Status,PD status,SAS Status,SAS correction,Port Admin Down,Port Admin UP,Align Port
+1/1/14/1,Enabled,Enabled,Match,UP,UP,Disabled,SAS Disabled,,configure ethernet line 1/1/14/1 no admin-up,configure ethernet line 1/1/14/1 admin-up,
+1/1/14/3,Enabled,Enabled,Match,UP,UP,Disabled,SAS Disabled,,configure ethernet line 1/1/14/3 no admin-up,configure ethernet line 1/1/14/3 admin-up,
+1/1/14/5,Disabled,Disabled,Match,UP,UP,Disabled,SAS Disabled,,configure ethernet line 1/1/14/5 no admin-up,configure ethernet line 1/1/14/5 admin-up,
+1/1/14/7,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/14/7 mau 1 no speed-auto-sense,configure ethernet line 1/1/14/7 no admin-up,configure ethernet line 1/1/14/7 admin-up,
+1/1/14/9,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/14/9 mau 1 no speed-auto-sense,configure ethernet line 1/1/14/9 no admin-up,configure ethernet line 1/1/14/9 admin-up,
+1/1/14/11,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/14/11 mau 1 no speed-auto-sense,configure ethernet line 1/1/14/11 no admin-up,configure ethernet line 1/1/14/11 admin-up,
+1/1/14/13,Disabled,Disabled,Match,UP,UP,Disabled,SAS Disabled,,configure ethernet line 1/1/14/13 no admin-up,configure ethernet line 1/1/14/13 admin-up,
+1/1/14/15,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/14/15 mau 1 no speed-auto-sense,configure ethernet line 1/1/14/15 no admin-up,configure ethernet line 1/1/14/15 admin-up,
+1/1/14/17,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/14/17 mau 1 no speed-auto-sense,configure ethernet line 1/1/14/17 no admin-up,configure ethernet line 1/1/14/17 admin-up,
+1/1/14/19,Disabled,Disabled,Match,UP,UP,Disabled,SAS Disabled,,configure ethernet line 1/1/14/19 no admin-up,configure ethernet line 1/1/14/19 admin-up,
+1/1/14/21,Enabled,Enabled,Match,UP,UP,Disabled,SAS Disabled,,configure ethernet line 1/1/14/21 no admin-up,configure ethernet line 1/1/14/21 admin-up,
+1/1/14/23,Disabled,Disabled,Match,UP,UP,Disabled,SAS Disabled,,configure ethernet line 1/1/14/23 no admin-up,configure ethernet line 1/1/14/23 admin-up,
+1/1/14/25,Disabled,Disabled,Match,UP,UP,Disabled,SAS Disabled,,configure ethernet line 1/1/14/25 no admin-up,configure ethernet line 1/1/14/25 admin-up,
+1/1/14/27,Enabled,Disabled,Mismatch,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/14/27 mau 1 no speed-auto-sense,configure ethernet line 1/1/14/27 no admin-up,configure ethernet line 1/1/14/27 admin-up,
+1/1/14/29,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/14/29 mau 1 no speed-auto-sense,configure ethernet line 1/1/14/29 no admin-up,configure ethernet line 1/1/14/29 admin-up,
+1/1/14/31,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/14/31 mau 1 no speed-auto-sense,configure ethernet line 1/1/14/31 no admin-up,configure ethernet line 1/1/14/31 admin-up,
+1/1/14/33,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/14/33 no admin-up,configure ethernet line 1/1/14/33 admin-up,
+1/1/14/35,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/14/35 no admin-up,configure ethernet line 1/1/14/35 admin-up,
+1/1/15/1,Enabled,Disabled,Mismatch,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/15/1 mau 1 no speed-auto-sense,configure ethernet line 1/1/15/1 no admin-up,configure ethernet line 1/1/15/1 admin-up,
+1/1/15/3,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/15/3 no admin-up,configure ethernet line 1/1/15/3 admin-up,
+1/1/15/5,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/15/5 mau 1 no speed-auto-sense,configure ethernet line 1/1/15/5 no admin-up,configure ethernet line 1/1/15/5 admin-up,
+1/1/15/7,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/15/7 no admin-up,configure ethernet line 1/1/15/7 admin-up,
+1/1/15/9,Enabled,Disabled,Mismatch,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/15/9 mau 1 no speed-auto-sense,configure ethernet line 1/1/15/9 no admin-up,configure ethernet line 1/1/15/9 admin-up,
+1/1/15/11,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/15/11 mau 1 no speed-auto-sense,configure ethernet line 1/1/15/11 no admin-up,configure ethernet line 1/1/15/11 admin-up,
+1/1/15/13,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/15/13 mau 1 no speed-auto-sense,configure ethernet line 1/1/15/13 no admin-up,configure ethernet line 1/1/15/13 admin-up,
+1/1/15/15,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/15/15 mau 1 no speed-auto-sense,configure ethernet line 1/1/15/15 no admin-up,configure ethernet line 1/1/15/15 admin-up,
+1/1/15/17,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/15/17 no admin-up,configure ethernet line 1/1/15/17 admin-up,
+1/1/15/19,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/15/19 no admin-up,configure ethernet line 1/1/15/19 admin-up,
+1/1/15/21,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/15/21 no admin-up,configure ethernet line 1/1/15/21 admin-up,
+1/1/15/23,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/15/23 no admin-up,configure ethernet line 1/1/15/23 admin-up,
+1/1/15/25,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/15/25 mau 1 no speed-auto-sense,configure ethernet line 1/1/15/25 no admin-up,configure ethernet line 1/1/15/25 admin-up,
+1/1/15/27,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/15/27 no admin-up,configure ethernet line 1/1/15/27 admin-up,
+1/1/15/29,Enabled,Disabled,Mismatch,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/15/29 mau 1 no speed-auto-sense,configure ethernet line 1/1/15/29 no admin-up,configure ethernet line 1/1/15/29 admin-up,
+1/1/15/31,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/15/31 mau 1 no speed-auto-sense,configure ethernet line 1/1/15/31 no admin-up,configure ethernet line 1/1/15/31 admin-up,
+1/1/15/33,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/15/33 mau 1 no speed-auto-sense,configure ethernet line 1/1/15/33 no admin-up,configure ethernet line 1/1/15/33 admin-up,
+1/1/15/35,Disabled,Disabled,Match,UP,Down,Disabled,SAS Enabled,configure ethernet line 1/1/15/35 mau 1 no speed-auto-sense,configure ethernet line 1/1/15/35 no admin-up,configure ethernet line 1/1/15/35 admin-up,
+1/1/16/1,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/16/1 no admin-up,configure ethernet line 1/1/16/1 admin-up,
+1/1/16/3,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/16/3 no admin-up,configure ethernet line 1/1/16/3 admin-up,
+1/1/16/5,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/16/5 no admin-up,configure ethernet line 1/1/16/5 admin-up,
+1/1/16/7,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/16/7 no admin-up,configure ethernet line 1/1/16/7 admin-up,
+1/1/16/9,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/16/9 no admin-up,configure ethernet line 1/1/16/9 admin-up,
+1/1/16/11,Disabled,Disabled,Match,UP,Down,Disabled,SAS Disabled,,configure ethernet line 1/1/16/11 no admin-up,configure ethernet line 1/1/16/11 admin-up,
+1/1/16/13,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
+1/1/16/15,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
+1/1/16/17,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
+1/1/16/19,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
+1/1/16/21,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
+1/1/16/23,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
+1/1/16/25,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
+1/1/16/27,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
+1/1/16/29,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
+1/1/16/31,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
+1/1/16/33,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
+1/1/16/35,Disabled,Disabled,Match,Down,Down,Disabled,SAS Disabled
